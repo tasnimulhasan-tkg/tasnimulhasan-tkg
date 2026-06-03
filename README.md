@@ -98,13 +98,13 @@ Grew from junior to mid-level, shipped multiple app releases
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tasnimulhasan-tkg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasnimulhasan-tkg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tasnimulhasan-tkg&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa)](https://git.io/streak-stats)
 
 </div>
 
@@ -124,30 +124,30 @@ Grew from junior to mid-level, shipped multiple app releases
 
 ### ⭐ Most Active Repository
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_1_MOST_CONTRIBUTED&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/YOUR_GITHUB_USERNAME/REPO_1_MOST_CONTRIBUTED)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tasnimulhasan-tkg&repo=REPO_1_MOST_CONTRIBUTED&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/tasnimulhasan-tkg/REPO_1_MOST_CONTRIBUTED)
 
 </div>
 
 <!-- Row 2: Two medium repos -->
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/YOUR_GITHUB_USERNAME/REPO_2)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/YOUR_GITHUB_USERNAME/REPO_3)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tasnimulhasan-tkg&repo=REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/tasnimulhasan-tkg/REPO_2)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tasnimulhasan-tkg&repo=REPO_3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/tasnimulhasan-tkg/REPO_3)
 
 </div>
 
 <!-- Row 3: Two more repos -->
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/YOUR_GITHUB_USERNAME/REPO_4)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_5&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/YOUR_GITHUB_USERNAME/REPO_5)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tasnimulhasan-tkg&repo=REPO_4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/tasnimulhasan-tkg/REPO_4)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tasnimulhasan-tkg&repo=REPO_5&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/tasnimulhasan-tkg/REPO_5)
 
 </div>
 
 <!-- Row 4: Final repo -->
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/YOUR_GITHUB_USERNAME/REPO_6)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tasnimulhasan-tkg&repo=REPO_6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa)](https://github.com/tasnimulhasan-tkg/REPO_6)
 
 </div>
 
@@ -157,7 +157,7 @@ Grew from junior to mid-level, shipped multiple app releases
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=a78bfa&line=7c3aed&point=a78bfa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tasnimulhasan-tkg&bg_color=0d1117&color=a78bfa&line=7c3aed&point=a78bfa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -169,7 +169,7 @@ Grew from junior to mid-level, shipped multiple app releases
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tasnimulhasan.tkg@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tasnimulhasan-tkg)
 
 </div>
 
@@ -181,6 +181,6 @@ Grew from junior to mid-level, shipped multiple app releases
 
 *"Code is like humor. When you have to explain it, it's bad."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=a78bfa&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=tasnimulhasan-tkg&color=a78bfa&style=flat-square&label=Profile+Views)
 
 </div>
